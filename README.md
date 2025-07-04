@@ -5,9 +5,11 @@ Simulating a smart load monitoring system that:
   (b) provides real-time alerts to warehouse staff via the cloud when the weight exceeds or falls below a predefined threshold , indicating overloading or material depletion
   
 ##PROBLEM STATEMENT
+
   To measure the weight in real-time and alert when the weight exceeds or falls below a predefined threshold , indicating overloading or material depletion.
 
 ##SCOPE OF THE SOLUTION
+
   In this project we had not used the cloud to upload the measured weight, but the weight is displayed in real-time on LCD display and alerts user of the weight exceeds or falls below a predefined threshold ,     indicating overloading or material depletion.
 
 ##REQUIRED COMPONENTS
