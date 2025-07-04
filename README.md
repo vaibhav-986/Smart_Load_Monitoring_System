@@ -22,8 +22,8 @@ Simulating a smart load monitoring system that:
   2)ARDUINO IDE
 
 ##FLOWCHART
+File FLOWCHART.jpg contains the flowchart of the project .
 
-  
 ##SIMULATED CIRCUIT  
 File wokwi_simulation.txt contains the link to the simulation done on wokwi.com simulator,
 ( https://wokwi.com/projects/435526580330294273 ).
