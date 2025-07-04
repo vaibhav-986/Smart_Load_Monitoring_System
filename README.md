@@ -1,5 +1,7 @@
 # Smart_Load_Monitoring_System
-Simulate a smart load monitoring system that (a) continuously measures the weight of materials placed on a platform using the HX711 weight sensor module, (b) provides real-time alerts to warehouse staff via the cloud when the weight exceeds or falls below a predefined threshold, indicating overloading or material depletion
+Simulate a smart load monitoring system that :
+  (a) continuously measures the weight of materials placed on a platform using the HX711 weight sensor module   
+  (b) provides real-time alerts to warehouse staff via the cloud when the weight exceeds or falls below a predefined threshold, indicating overloading or material depletion
 
 File wokwi_simulation.txt contains the link to the simulation done on wokwi.com simulator,( https://wokwi.com/projects/435526580330294273 ).
 File circuit_diagram.jpg contains the circuit connections for the project .
