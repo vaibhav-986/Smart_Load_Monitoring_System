@@ -22,7 +22,9 @@ Simulating a smart load monitoring system that:
   4) Arduino uno LCD didplay shield
      
   ###SOFTWARE:
+  
   1)WOKWI
+  
   2)ARDUINO IDE
 
 ##FLOWCHART
