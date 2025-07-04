@@ -25,9 +25,11 @@ Simulating a smart load monitoring system that:
 File FLOWCHART.jpg contains the flowchart of the project .
 
 ##SIMULATED CIRCUIT  
-File wokwi_simulation.txt contains the link to the simulation done on wokwi.com simulator,
- ( https://wokwi.com/projects/435526580330294273 ).
+File wokwi_simulation.txt contains the link to the simulation done on wokwi.com simulator, https://wokwi.com/projects/435526580330294273.
+ 
 File circuit_diagram.jpg contains the circuit connections for the project .
+
 File calibration.ino contains the code for the calibrating the load cells.
+
 File weight.ino contains the project code to measure the weight and report the measured values in grams and also reports whether the measured weight is underload , overload or controlled weight in real time .
 
